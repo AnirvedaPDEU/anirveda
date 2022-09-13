@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "tailwind.config.js",
-  "scripts": {
-    "start": "vite",
-    "build": "vite build",
-    "watch": "vite build --watch"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AnirvedaPDEU/website.git"
